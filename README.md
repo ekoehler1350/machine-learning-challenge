@@ -54,21 +54,21 @@ In this homework assignment, you will need to:
 
 ## Analysis
 ##### Model 1: Random Forest 
-![rf_classification](../Images/rf_classification.png "Random Forest Classification Report Matrix")
+![rf_classification.png](Images/rf_classification.png)
 * Training Score Before Tuning: 1.0
 * Testing Score Before Tuning: 0.8993
 * Training Score After Tuning:  1.0
 * Testing Score After Tuning: 0.8976
 
 ##### Model 2: Support Vector
-![svm_classification](../Images/svm_classification.png "Support Vector Classification Report Matrix")
+![svm_classification.png](Images/svm_classification.png)
 * Training Score Before Tuning: 0.8455
 * Testing Score Before Tuning: 0.8415
 * Training Score After Tuning: 0.8865
 * Testing Score After Tuning: 0.8793
 
 ##### Model 3: KNN 
-![knn_classification](../Images/knn_classification.png "K Nearest Neighbors Classification Report Matrix")
+![knn_classification.png](Images/knn_classification.png)
 * Training Score Before Tuning: 0.869
 * Testing Score Before Tuning: 0.831
 * Training Score After Tuning: 0.864
